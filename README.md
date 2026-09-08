@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tanmayakaushal-hub/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/tanmayakaushal-hub/DSA/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
