@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/tanmayakaushal-hub/DSA/tree/master/0836-rectangle-overlap) |
+## Array
+|  |
+| ------- |
+| [1470-shuffle-the-array](https://github.com/tanmayakaushal-hub/DSA/tree/master/1470-shuffle-the-array) |
 <!---LeetCode Topics End-->
