@@ -35,5 +35,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/tanmayakaushal-hub/DSA/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/tanmayakaushal-hub/DSA/tree/master/3870-count-commas-in-range) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/tanmayakaushal-hub/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
