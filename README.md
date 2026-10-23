@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/tanmayakaushal-hub/DSA/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/tanmayakaushal-hub/DSA/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/tanmayakaushal-hub/DSA/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/tanmayakaushal-hub/DSA/tree/master/1470-shuffle-the-array) |
 ## Hash Table
@@ -58,5 +59,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/tanmayakaushal-hub/DSA/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/tanmayakaushal-hub/DSA/tree/master/0645-set-mismatch) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/tanmayakaushal-hub/DSA/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
