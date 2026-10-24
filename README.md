@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/tanmayakaushal-hub/DSA/tree/master/0836-rectangle-overlap) |
+| [2409-count-days-spent-together](https://github.com/tanmayakaushal-hub/DSA/tree/master/2409-count-days-spent-together) |
 | [3870-count-commas-in-range](https://github.com/tanmayakaushal-hub/DSA/tree/master/3870-count-commas-in-range) |
 ## Geometry
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/tanmayakaushal-hub/DSA/tree/master/0506-relative-ranks) |
+## String
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/tanmayakaushal-hub/DSA/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
