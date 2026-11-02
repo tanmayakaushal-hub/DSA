@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tanmayakaushal-hub/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmayakaushal-hub/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/tanmayakaushal-hub/DSA/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/tanmayakaushal-hub/DSA/tree/master/2409-count-days-spent-together) |
 | [3870-count-commas-in-range](https://github.com/tanmayakaushal-hub/DSA/tree/master/3870-count-commas-in-range) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tanmayakaushal-hub/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmayakaushal-hub/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/tanmayakaushal-hub/DSA/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/tanmayakaushal-hub/DSA/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/tanmayakaushal-hub/DSA/tree/master/0645-set-mismatch) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmayakaushal-hub/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/tanmayakaushal-hub/DSA/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/tanmayakaushal-hub/DSA/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
