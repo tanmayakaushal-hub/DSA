@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanmayakaushal-hub/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tanmayakaushal-hub/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/tanmayakaushal-hub/DSA/tree/master/0645-set-mismatch) |
+| [0767-reorganize-string](https://github.com/tanmayakaushal-hub/DSA/tree/master/0767-reorganize-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tanmayakaushal-hub/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Bit Manipulation
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/tanmayakaushal-hub/DSA/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tanmayakaushal-hub/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/tanmayakaushal-hub/DSA/tree/master/0645-set-mismatch) |
+| [0767-reorganize-string](https://github.com/tanmayakaushal-hub/DSA/tree/master/0767-reorganize-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanmayakaushal-hub/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/tanmayakaushal-hub/DSA/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
@@ -95,12 +97,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/tanmayakaushal-hub/DSA/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tanmayakaushal-hub/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0767-reorganize-string](https://github.com/tanmayakaushal-hub/DSA/tree/master/0767-reorganize-string) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tanmayakaushal-hub/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2974-minimum-number-game](https://github.com/tanmayakaushal-hub/DSA/tree/master/2974-minimum-number-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tanmayakaushal-hub/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## String
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/tanmayakaushal-hub/DSA/tree/master/0767-reorganize-string) |
 | [2409-count-days-spent-together](https://github.com/tanmayakaushal-hub/DSA/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/tanmayakaushal-hub/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/tanmayakaushal-hub/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -162,8 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tanmayakaushal-hub/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0767-reorganize-string](https://github.com/tanmayakaushal-hub/DSA/tree/master/0767-reorganize-string) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanmayakaushal-hub/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/tanmayakaushal-hub/DSA/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
