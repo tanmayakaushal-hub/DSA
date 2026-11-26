@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmayakaushal-hub/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tanmayakaushal-hub/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tanmayakaushal-hub/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanmayakaushal-hub/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanmayakaushal-hub/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3934-smallest-unique-subarray](https://github.com/tanmayakaushal-hub/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Binary Tree
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/tanmayakaushal-hub/DSA/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tanmayakaushal-hub/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/tanmayakaushal-hub/DSA/tree/master/0645-set-mismatch) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanmayakaushal-hub/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1352-product-of-the-last-k-numbers](https://github.com/tanmayakaushal-hub/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanmayakaushal-hub/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/tanmayakaushal-hub/DSA/tree/master/1470-shuffle-the-array) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tanmayakaushal-hub/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/tanmayakaushal-hub/DSA/tree/master/0645-set-mismatch) |
 | [0767-reorganize-string](https://github.com/tanmayakaushal-hub/DSA/tree/master/0767-reorganize-string) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanmayakaushal-hub/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tanmayakaushal-hub/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2974-minimum-number-game](https://github.com/tanmayakaushal-hub/DSA/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/tanmayakaushal-hub/DSA/tree/master/0506-relative-ranks) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/tanmayakaushal-hub/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0767-reorganize-string](https://github.com/tanmayakaushal-hub/DSA/tree/master/0767-reorganize-string) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanmayakaushal-hub/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/tanmayakaushal-hub/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2974-minimum-number-game](https://github.com/tanmayakaushal-hub/DSA/tree/master/2974-minimum-number-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/tanmayakaushal-hub/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/tanmayakaushal-hub/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/tanmayakaushal-hub/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
